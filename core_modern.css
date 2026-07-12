@@ -1230,3 +1230,6 @@ foreignObject{border-radius:18px!important;}
         content: "Mushoku Tensei Theme by Me xD";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
+
+
+backdrop-filter: blur(18px);

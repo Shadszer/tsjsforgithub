@@ -1223,3 +1223,10 @@ button,[class*="button_"]{border-radius:12px!important;}
 [class*="searchBar"]{border-radius:999px!important;}
 [class*="menu_"],[class*="layer_"],[class*="outer_"],[class*="userPopout"]{border-radius:22px!important;overflow:hidden!important;}
 foreignObject{border-radius:18px!important;}
+
+
+/*TopBar*/ 
+    #app-mount .title_c38106::before {
+        content: "Mushoku Tensei Theme by Me xD";
+        color: rgb(255,255,255,0.5);
+        font-weight: 500;

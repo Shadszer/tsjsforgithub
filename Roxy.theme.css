@@ -1,0 +1,32 @@
+/**
+ * @name Roxy
+ * @author VaporousCreeper
+ * @version 1.4.X
+ * @description Mushoku Tensei theme featuring Roxy
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://images4.alphacoders.com/132/thumb-1920-1327781.jpeg');
+     --activetext-colour: #eef7ff;
+
+     --primary1-colour: #4aa8ff;
+     --primary2-colour: rgba(74,168,255,0.5);
+     --primary3-colour: rgba(24,82,140,0.6);
+     --primary4-colour: rgba(24,82,140,0.4);
+
+     --secondary1-colour: rgba(20,40,70,0.25);
+     --secondary2-colour: rgba(70,120,180,0.35);
+     --secondary3-colour: rgba(8,18,35,0.75);
+     --secondary4-colour: rgba(8,18,35,0.4);
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+
+The items above are not owned by me, They go to there respected owners 
+*/

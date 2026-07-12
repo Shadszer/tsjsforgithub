@@ -1,0 +1,32 @@
+/**
+ * @name Eris
+ * @author VaporousCreeper
+ * @version 1.4.X
+ * @description Mushoku Tensei theme featuring Eris
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://images7.alphacoders.com/132/thumb-1920-1327779.jpeg');
+     --activetext-colour: #F8F1E3;
+
+     --primary1-colour: #A3262A;
+     --primary2-colour: rgba(163,38,42,0.55);
+     --primary3-colour: rgba(94,18,22,0.72);
+     --primary4-colour: rgba(94,18,22,0.45);
+
+     --secondary1-colour: rgba(196,150,67,0.18);
+     --secondary2-colour: rgba(196,150,67,0.40);
+     --secondary3-colour: rgba(32,21,18,0.82);
+     --secondary4-colour: rgba(52,36,28,0.48);
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+
+The items above are not owned by me, They go to there respected owners 
+*/

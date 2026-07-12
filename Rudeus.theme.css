@@ -1,0 +1,32 @@
+/**
+ * @name Rudeus
+ * @author VaporousCreeper
+ * @version 1.4.X
+ * @description Mushoku Tensei theme featuring Rudeus
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://images2.alphacoders.com/135/thumb-1920-1358803.png');
+     --activetext-colour: #F6F2E9;
+
+     --primary1-colour: #3D73B8;
+     --primary2-colour: rgba(61,115,184,0.50);
+     --primary3-colour: rgba(33,61,102,0.68);
+     --primary4-colour: rgba(33,61,102,0.42);
+
+     --secondary1-colour: rgba(196,168,93,0.18);
+     --secondary2-colour: rgba(196,168,93,0.40);
+     --secondary3-colour: rgba(24,26,34,0.82);
+     --secondary4-colour: rgba(42,46,58,0.45);
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+
+The items above are not owned by me, They go to there respected owners 
+*/

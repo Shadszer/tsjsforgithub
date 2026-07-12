@@ -1,0 +1,32 @@
+/**
+ * @name Sylphie
+ * @author VaporousCreeper
+ * @version 1.4.X
+ * @description Mushoku Tensei theme featuring Sylphie
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root{
+     --background: url('https://images5.alphacoders.com/135/thumb-1920-1358797.png');
+     --activetext-colour: #F8FBF7;
+
+     --primary1-colour: #86CFA4;
+     --primary2-colour: rgba(134,207,164,0.50);
+     --primary3-colour: rgba(78,133,98,0.65);
+     --primary4-colour: rgba(78,133,98,0.40);
+
+     --secondary1-colour: rgba(241,247,241,0.18);
+     --secondary2-colour: rgba(204,228,212,0.40);
+     --secondary3-colour: rgba(23,34,27,0.80);
+     --secondary4-colour: rgba(44,60,48,0.45);
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+
+The items above are not owned by me, They go to there respected owners 
+*/

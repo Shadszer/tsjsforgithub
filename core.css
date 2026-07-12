@@ -1195,3 +1195,149 @@
         background-color: var(--secondary3-colour);
         border-bottom: 3px solid var(--primary3-colour)
     }
+
+/* ==========================================================
+   Shadow UI Overhaul v1.0
+   Rounded + Glassmorphism
+   ========================================================== */
+
+/* ---------- Main Panels ---------- */
+
+.visual-refresh .sidebar_c48ade,
+.visual-refresh .chat_f75fb0,
+.visual-refresh .membersWrap_c8ffbb,
+.visual-refresh .container_c8ffbb,
+.visual-refresh .container__133bf,
+.visual-refresh .panels_c48ade{
+    border-radius:18px !important;
+    overflow:hidden;
+}
+
+/* Separate panels slightly */
+.visual-refresh .sidebar_c48ade{
+    margin:8px;
+    margin-right:4px;
+}
+
+.visual-refresh .chat_f75fb0{
+    margin:8px 8px 8px 4px;
+}
+
+.visual-refresh .membersWrap_c8ffbb{
+    margin:8px 8px 8px 0;
+}
+
+/* ---------- Glass ---------- */
+
+.visual-refresh .sidebar_c48ade,
+.visual-refresh .membersWrap_c8ffbb,
+.visual-refresh .panels_c48ade,
+.visual-refresh .chatContent_f75fb0{
+    backdrop-filter:blur(18px);
+    background:rgba(20,20,20,.28)!important;
+}
+
+/* ---------- Messages ---------- */
+
+.message_d5deea{
+    border-radius:16px;
+    margin:3px 8px;
+    padding:8px;
+    transition:.15s;
+}
+
+.message_d5deea:hover{
+    background:rgba(255,255,255,.05)!important;
+}
+
+/* ---------- Embeds ---------- */
+
+.embedFull__623de,
+.embedWrapper_b7e1cb{
+    border-radius:18px!important;
+    overflow:hidden;
+}
+
+/* ---------- Chat Box ---------- */
+
+.channelTextArea_f75fb0{
+    border-radius:18px!important;
+    margin:10px;
+    overflow:hidden;
+}
+
+/* ---------- Member List ---------- */
+
+.member_aa4760{
+    border-radius:14px;
+    margin:2px 6px;
+    transition:.15s;
+}
+
+.member_aa4760:hover{
+    background:rgba(255,255,255,.06)!important;
+}
+
+/* ---------- Channels ---------- */
+
+.link__2ea32{
+    border-radius:14px!important;
+    margin:2px 8px;
+}
+
+.modeSelected__2ea32 .link__2ea32{
+    border-radius:16px!important;
+}
+
+/* ---------- Buttons ---------- */
+
+.button__201d5{
+    border-radius:14px!important;
+}
+
+/* ---------- Search ---------- */
+
+.searchBar__35e86{
+    border-radius:999px!important;
+}
+
+/* ---------- User Panel ---------- */
+
+.panels_c48ade{
+    margin:8px;
+}
+
+/* ---------- Popouts ---------- */
+
+.layer_da8173,
+.menu_c1e9c4,
+.userPopoutOuter_c69a7b{
+    border-radius:20px!important;
+    overflow:hidden;
+}
+
+/* ---------- Server Icons ---------- */
+
+.wrapper__6e9f8 foreignObject{
+    border-radius:18px!important;
+}
+
+/* ---------- Folder Icons ---------- */
+
+.expandedFolderBackground__48112{
+    border-radius:18px!important;
+}
+
+/* ---------- Profile Cards ---------- */
+
+.outer_c0bea0{
+    border-radius:22px!important;
+}
+
+/* ---------- Smooth Hover ---------- */
+
+*{
+    transition:border-radius .15s ease,
+               background-color .15s ease,
+               box-shadow .15s ease;
+}

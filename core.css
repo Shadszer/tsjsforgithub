@@ -1372,3 +1372,22 @@ border-radius: 20px;
 
 /* Search bar */
 border-radius: 999px;
+/* Floating message cards */
+.message_d5deea {
+    margin: 6px 10px;
+    padding: 10px 14px;
+    border-radius: 16px !important;
+    background: rgba(25, 30, 40, 0.35) !important;
+    backdrop-filter: blur(12px);
+}
+
+/* Hover effect */
+.message_d5deea:hover {
+    background: rgba(35, 40, 55, 0.50) !important;
+    transform: translateY(-1px);
+}
+
+/* Give messages breathing room */
+.cozy_c19a55 .contents_c19a55 {
+    padding-right: 12px;
+}

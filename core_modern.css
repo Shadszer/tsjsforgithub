@@ -1209,7 +1209,7 @@ margin:8px!important;
 border-radius:22px!important;
 overflow:hidden!important;
 box-shadow:0 8px 30px rgba(0,0,0,.35)!important;
-backdrop-filter:blur(22px)!important;
+backdrop-filter:none(22px)!important;
 }
 .header_f37cb1,.container_f37cb1{border-radius:22px!important;border:none!important;}
 [class*="link_"]{border-radius:999px!important;transition:all .18s cubic-bezier(.2,.8,.2,1)!important;}

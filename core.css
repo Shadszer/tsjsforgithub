@@ -1341,3 +1341,34 @@
                background-color .15s ease,
                box-shadow .15s ease;
 }
+
+
+/* Main containers */
+border-radius: 16px;
+
+/* Chat input */
+border-radius: 24px;
+
+/* Messages */
+border-radius: 12px;
+
+/* Member list items */
+border-radius: 10px;
+
+/* Channel pills */
+border-radius: 10px;
+
+/* Embeds */
+border-radius: 12px;
+
+/* Buttons */
+border-radius: 8px;
+
+/* Popouts / Context menus */
+border-radius: 16px;
+
+/* Modals */
+border-radius: 20px;
+
+/* Search bar */
+border-radius: 999px;
